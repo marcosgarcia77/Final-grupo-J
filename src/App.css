@@ -1,4 +1,15 @@
-.App {
+
+.controls{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+body{
+  padding: 5vh, 5vw;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +47,4 @@
     transform: rotate(360deg);
   }
 }
+ */
